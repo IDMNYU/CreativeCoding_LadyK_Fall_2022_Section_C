@@ -147,7 +147,7 @@ This book is available for purchase in the NYU bookstore. You can check the stat
 
 • A notebook/sketchbook and a pen. At all times.
 
-• [Slack](https://creativecodin-cao5309.slack.com/) 
+• [Slack](https://creativecodin-yqd9358.slack.com/) 
 
 • [Resources](Resources.md)
 
