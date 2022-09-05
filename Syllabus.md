@@ -1,4 +1,4 @@
-# Syllabus for DM-UY-1133-A Creative Coding Fall 2022
+# Syllabus for DM-UY-1133-C Creative Coding Fall 2022
 Creative Coding Syllabus &amp; Class repo
 
 * **Professor: Katherine Bennett**
