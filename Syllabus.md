@@ -71,7 +71,7 @@ Week 14 of the semester ONLY:  <br>
 • Submit the weekly Tickets to Leave
 
 
-• If you come down with COVID, please contact Deanna Rayment at (deanna.rayment@nyu.edu, 646.997.3046) to get an excused absence. They are the Coordinator of Student Advocacy and Compliance. They are there to support you. You are still responsible for all content missed. This includes understanding directives as well as assignments. It is your responsible to find out what you missed and to follow up. I am not going to chase you down.
+• If you come down with COVID, please contact Deanna Rayment at (deanna.rayment@nyu.edu, 646.997.3046) to get an excused absence. They are the Coordinator of Student Advocacy and Compliance. They are there to support you. *You are still responsible for all content missed. This includes understanding directives as well as assignments. It is your responsible to find out what you missed and to follow up. I am not going to chase you down.*
 
 • Participation is not limited to the assignments that you turn in. Participation also includes not only your presence in class, but your questions, feedback and dialog. Do not fall into the trap of being lazy during class and never vocalizing your presence. Lean in and be present. If you have a question, someone else does too. You vocalizing your questions helps others to do the same.
 
@@ -115,6 +115,8 @@ Attendance is mandatory and will be noted for the entire duration of the class p
 • Material missed is the responsibility of the student to make up. Consult the syllabus. Review the Calendar and the weekly breakout. Consult Slack for the demo code from class. Speak to other classmates in order to find out what was lectured and discussed. It is your responsibility to go over that material independently. Do these things first. It is your responsibility to contact me if you continue to have difficulty with the information.
 
 • If you have some extenuating need to be outside of class (special doctor's appointment, religious observations, medical issues, etc etc), please contact Deanna Rayment at (deanna.rayment@nyu.edu, 646.997.3046). They are the Coordinator of Student Advocacy and Compliance. They are there to support you. They will communicate with me, as to whether or not your absence is excused. Otherwise, assignments will be counted as late. Regardless of whether or not your absence is excused, you are responsible for the content you've missed. Extensions may be granted for excused absenses.
+
+• Zoom links and recordings are only available with a documented notice/excused absence. They are granted on a case-by-case basis. Brightspace will not be used for Zoom materials. 
 
 ## Contacting Me
 [Slack](https://creativecodin-yqd9358.slack.com/) DIRECT MESSAGE is the preferred initial contact. Otherwise you may email me (katherine.bennett@nyu.edu), most especially if it is time urgent/sensitive. Direct message is suitable for short questions (to answers that cannot be found in the syllabus), to set up appointments, or to notify me about being late or absent. *If it's something time sensitive, do email me.*
