@@ -170,9 +170,9 @@ The course can be broken down into 3 sections throughout the semester: programmi
 
 A typical week will aim for the following schedule:
 
-	• 12:00 - 12:10 Class Updates
-	• 12:10 - 13:30 Demo/Lecture/Workshop/Discussion/Pair Programming Challenge
-	• 13:30 - 13:50 Presentations & Re-group
+	• 14:00 - 14:10 Class Updates
+	• 14:10 - 15:30 Demo/Lecture/Workshop/Discussion/Pair Programming Challenge
+	• 15:30 - 15:50 Presentations & Re-group
 	
 
 ## Important Aspects of this Course
