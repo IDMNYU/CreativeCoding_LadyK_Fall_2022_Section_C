@@ -3,10 +3,10 @@
 
 ## Sketch 1 Composition
 
-#### Due Feb 7th 18:00 EST 
+#### Due Sept 21 18:00 EST 
 #### Submit on openProcessing (check Slack announcement channel for invitation and syllabus for URL)
 			
-_Come to class on Feb 7th with the sketch started and we will demo how to submit it together in class_
+_Come to class on Sept 14th with the sketch started and we will demo how to submit it together in class_
 
 Create a sketch that uses a multitude of shapes, and shapes that are different. Use a variety of colors, both for the shapes and the background. Create a composition or collage with these shapes. I encourage you to be abstract, rather than literal. Yet, in the abstract, there can be some likeness to reality.
 

@@ -7,8 +7,8 @@
 <table>
 <tr>
 <td>wk</td>
-<td>Monday </td>
 <td>Wednesday </td>
+<td>Monday </td>
 </tr>
 <!-- dates -->
 <tr>
@@ -61,7 +61,7 @@
   <td valign="top">do</td>
 	<!-- day Tues -->
 	<td valign="top">
- 	<li> last week's assignments, if you haven't completed them yet.<li>
+ 	<li> last week's work, if you haven't completed them yet. <a href = "week_1_detail.md">See the week 1 weekly breakout and complete all tasks. </a><li>
  	<li><a href = "Sketch_1.md"> Sketch 1 </a></li>
  </td>
   	<!-- day Thurs -->

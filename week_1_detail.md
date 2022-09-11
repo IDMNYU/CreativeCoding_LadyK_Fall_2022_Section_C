@@ -57,7 +57,7 @@
  	<td valign="top"> 
  		<li> <a href = "https://slack.com/"> download Slack </a></li>
  		<li><a href = "https://join.slack.com/t/slack-tde4177/shared_invite/zt-1eyroz18n-BcjGYfTY9dxp5TO2HF2UWA">Join the Slack workspace for this course. Make sure your workspace name is the name to address you by</li> </a>
- 		<li> <a href = ""> Join our workspace on openProcessing via this invitation link.</a> This is critical as this is where you will be submitting your homework.</li>
+ 		<li> <a href = "https://openprocessing.org/join/9C7A49"> Join our workspace on openProcessing via this invitation link.</a> This is critical as this is where you will be submitting your homework.</li>
  		<li>Get a <a href = https://github.com/>Github 	account</a></li>
 		<li>Direct Message me on Slack, your Github handle (ie, GitHub name; NOT account login).</li>
  		<li>Install <a href = https://processing.org/download/>Processing</a>. </li> <li>Go through the examples in Processing and explore them.</li>
@@ -80,6 +80,7 @@
  	</td>
   	<!-- day Thurs -->
   	<td valign="top"> 
+  		<li><a href = "Sketch_1.md"> Sketch 1 </a></li>
   	<li>Review Chapters 1 + 2 in the Learning Processing Book</li>
   	<li> Watch: <a href="https://www.youtube.com/user/shiffman/playlists?view=50&sort=dd&shelf_id=2">Shiffman, Learning Processing 1-4 (including sub-videos, ie, 4.4, 4.6, etc)</li> </a>
 		<ul>
