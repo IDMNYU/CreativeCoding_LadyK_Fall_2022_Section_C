@@ -6,9 +6,8 @@
 ### Interactive Repetition & Drawing: Modularity, Pattern
 
 
-#### Step 1 is due before class on Feb 16th
-##### Step 2: Due Feb 23rd due by 17:00
-
+#### Step 1 is due before class on Sept 29th  16th
+##### Step 2: Due TBA
         
 ##### Step 1:
  
@@ -26,7 +25,7 @@
 
 
 
-##### Step 2: Due Feb 23rd due by 17:00
+##### Step 2: Due TBA
 
 
  Use the previously created arrangement of shapes, as the stamp that you will use to create different patterns across the sketch window. You will call this stamp multiple times. From this multitude of calls, a pattern will emerge.
