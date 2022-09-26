@@ -6,26 +6,27 @@
 ### Interactive Repetition & Drawing: Modularity, Pattern
 
 
-#### Step 1 is due before class on Sept 29th  16th
-##### Step 2: Due TBA
+#### Step 1, A - B is due before class on Sept 28th 
+#### Step 1, C - F is due before class on Oct 3rd 
+#### Step 2: Oct 12th 20:00 <-- this submission is graded
         
 ##### Step 1:
  
- - Using 1 small line or small simple shape (ellipse), twist or turn it and position it within space. Repeat this process, changing the orientation and position, yet keeping it close to the previous shape. Repeat this process at least 3-5 more times. By the end, you should a clustered arrangement of similar shapes. Now, thing of this cluster of shapes, as one stamp.
+ A. Using 1 small line or small simple shape (ellipse), twist or turn it and position it within space. Repeat this process, changing the orientation and position, yet keeping it close to the previous shape. Repeat this process at least 3-5 more times. By the end, you should a clustered arrangement of similar shapes. Now, thing of this cluster of shapes, as one stamp.
 
- - Apply a variable to these shapes location coordinates, such as "50 + x" "100 + y"
+ B. Apply a variable to these shapes location coordinates, such as "50 + x" "100 + y"
 
- - Wrap these lines of code into a function. Check that function by calling that function.
+ C. Wrap these lines of code into a function. Check that function by calling that function.
 
- - Then pass parameters for that function, that are then used within that function, such as myCluster(int x, int y)
+ D. Then pass parameters for that function, that are then used within that function, such as myCluster(int x, int y)
 
- - Then call that function multiple times passing different values to it each time. (You can create parameters for color, width, height, etc)
+ E. Then call that function multiple times passing different values to it each time. (You can create parameters for color, width, height, etc)
 
- - Now, call that function inside a simple for-loop. Use the for-loop to create multiple instances of the shape cluster. But, they cannot appear on top of one another and they must appear on the sketch (ie, no background update)
+ F. Now, call that function inside a simple for-loop. Use the for-loop to create multiple instances of the shape cluster. But, they cannot appear on top of one another and they must appear on the sketch (ie, no background update)
 
 
 
-##### Step 2: Due TBA
+##### Step 2: Due Oct 12th 18:00 <-- this submission is graded
 
 
  Use the previously created arrangement of shapes, as the stamp that you will use to create different patterns across the sketch window. You will call this stamp multiple times. From this multitude of calls, a pattern will emerge.
