@@ -6,8 +6,8 @@
 <table>
 <tr>
 <td>wk</td>
-<td>Monday </td>
 <td>Wednesday </td>
+<td>Monday </td>
 </tr>
 <!-- dates -->
 <tr>
@@ -56,11 +56,11 @@
   <td valign="top">do</td>
 	<!-- day Tues -->
  	<td valign ="top"> 
- 	<a href = "Sketch_2.md">Sketch 2</a> otherwise <a href = "Sketch_3.md"> Sketch 3</a><br>
+ 	<a href = "Sketch_2.md">Sketch 2</a><br>
  	</td>
   	<!-- day Thurs -->
   	<td valign = "top">
- 	<a href = "Sketch_2.md">Sketch 2</a> otherwise <a href = "Sketch_3.md"> Sketch 3</a><br>
+ 	<a href = "Sketch_2.md">Sketch 2</a><br>
   	</td>	
 </tr>
 </table>
