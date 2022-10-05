@@ -47,7 +47,7 @@
 
 <tr>
 	<td>5</td>
-	<td valign="top"><a href="week_5_detail.md">Oct 5</a><br><br>Matrix Transformations <br> 
+	<td valign="top"><a href="week_5_detail.md">Oct 5</a><br>Matrix Transformations <br> 
 	More Intro to p5.js<br> 
 	Sketch 3 launched<br>
 </td>
