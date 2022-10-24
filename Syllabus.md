@@ -6,7 +6,8 @@ Creative Coding Syllabus &amp; Class repo
 * [Slack Workspace](https://creativecodin-yqd9358.slack.com) (Note: you must first JOIN the slack workspace to access it. You can find the link to join in week 1's weekly breakout page or the email I sent)
 * [openProcessing Workspace (where homework is submitted)](https://openprocessing.org/class/80728) You must first join openProcessing. See the email I sent of the invite in week 1's weekly breakout.
 * **Office Hours: Monday 4-5pm EST, Message me in Slack to give me a heads up. First Come, First Serve. Otherwise, I can meet briefly after class. Please message me in advance to set up.**
-
+* **Creative Coding GA is: Jiyun Yao  jy3917@nyu.edu**
+* The office hours for GA are Tuesday Thursday 2-5 PM at Room 233 in 370 Jay St building.
 
 # Creative Coding: An Intro to Creative Coding
 
