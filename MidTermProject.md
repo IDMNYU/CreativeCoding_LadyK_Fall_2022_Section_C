@@ -11,7 +11,7 @@
 
 Weekly pushes and development are expected
 
-Pick an adjective and make a program that graphically illustrates that adjective interactively/responsively or by animation. Time is an element here. What we are seeing, must change over time. It is not a flat image. You may not use images nor pixels. You may not use an external library. You may not use sound. You may not use text. Use only drawing functions, and things that create graphics. You are to illustrate this adjective over time. Think of it as a performance that unfolds and builds to reveal your adjective.
+Pick an adjective and make a program that graphically illustrates that adjective interactively/responsively or by animation. Time is an element here. What we are seeing, must change over time. It is not a flat image. You may not use images nor pixels. You may not use an external library. You may not use sound. You may not use text. Use only drawing functions, and things that create graphics. You are to illustrate this adjective over time. Think of it as a performance that unfolds and builds to reveal your adjective over several scenes, segements, acts, transitions. Change should be present throughout.
 
 You are challenged to not be literal. For example, do not draw a smiley face that then frowns to show sadness. You are encouraged to be abstract.
 
@@ -22,6 +22,8 @@ Start with a small, very simple shape. Just start.
 The goal of this assignment is to explore, experiment and to ideate. As a result, you don't have to know the outcome from when you start. But you must demonstrate a rigerous investigation, with exploration, experimentation and ideation.
 
 You are to explore this adjective, and to transcribe it's meaning, through mark making via procedural graphics. Think about the energy your adjective describes. How can you translate that to movement with this small shape? How does that movement change over time? In addition to movement, explore color, size, opacity, etc. What happens after a collection of them are drawn? Can you create patterns and textures that describe this adjective?
+
+Think about how to describe the feeling or state of the adjective, not so much what generated the adjective. Think more from a universal prespective, than a personal one.
 
 After experiencing the duration of your piece, we will guess your adjective. As such, think of this as a performance: You have the entire performance to use to help transcribe your adjective. Think about building, things that change over time, procedures, drama, and events.
 
