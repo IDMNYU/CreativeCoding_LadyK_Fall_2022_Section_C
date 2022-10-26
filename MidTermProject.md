@@ -54,7 +54,7 @@ Do not be literal. Do not create a smiley face to convey happiness. Nor a snowpe
 	• math or random <br>
 	• some use of interaction or change over time <br>
 	• movement, change, variety <br>
-	• arrays <br>
+	• <strike> arrays </strike><br>
 	• conditionals <br>
 	• OOP - with methods + passing parameters <br>
 
