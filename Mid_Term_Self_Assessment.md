@@ -4,7 +4,7 @@
 
 #### MidTerm Self-Assessment
 
-##### Due: Week 8 18:00 EST
+##### Due: Week 10 18:00 EST
 
 It's important that you personally evaluate your progress in this class. It's an opportunity to look at what you are struggling with, what you are succeeding at, where you need to push yourself and to develop a plan for further development. It's a time to reflect on the larger picture.
 

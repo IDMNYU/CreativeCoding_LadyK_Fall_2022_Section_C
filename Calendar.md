@@ -93,42 +93,47 @@
 		Complete Refinements to Project 1 </a><br>
 	</td>
 </tr>
-
 <tr>
 	<td>10</td>
-	<td valign="top"> Nov 9<br>Data<br>Text & String Manipulations	 <br>
-		<a href = "Sketch_4.md"> Work on Sketch 4 </a>
+	<td valign="top"> Nov 9<br>Images + Data<br>
+		<a href = "Sketch_4.md"> Work on Sketch 4 </a> <br>
+		<a href = "Mid_Term_Self_Assessment.md">Submit the Midterm Self Assessment </a><br>
 	</td>
-	<td valign="top">Nov 14<br><strong><a href = "RoundTable.md">  Roundtable for Final Projects</a></strong> 
-		<a href = "Sketch_4.md"> Work on Sketch 4 </a>
+	<td valign="top">Nov 14<br>Images <br> Intro: Text & String Manipulations	 <br>
+		<a href = "Sketch_4.md"> Work on Sketch 4 </a><br>
+		<a href = "Mid_Term_Self_Assessment.md">Submit the Midterm Self Assessment </a><br>
 	</td>	
 </tr>
 <tr>
 	<td>11</td>
 	<td valign="top">Nov 16<br><a href = "RoundTable.md"> <strong> Roundtable for Final Projects</a></strong> <br>	
 	</td>
-	<td valign="top">Nov 21<br>Strings + API's<br>
+	<td valign="top">Nov 21<br><a href = "RoundTable.md"> <strong> Roundtable for Final Projects</a></strong> <br>
 	</td>
 </tr>
 <tr>
 	<td>12</td>
-	<td valign="top">Nov 28<br>Sound<br>P5 Play Library<br>
+	<td valign="top">Nov 28<br>Strings + API's<br>
+		<td valign="top"> <a href = "Final_Project.md">Work on Final Project</a> <br>
 	</td>
-	<td valign="top">Nov 30<br><strong>Topics by request<br></strong>
+	<td valign="top">Nov 30<br>Sound<br>P5 Play Library<br>
+		<a href = "Final_Project.md">Work on Final Project</a> <br>
 	</td>
 </tr>
 <tr>	
 	<td>13</td><td valign="top">Dec 5<br><strong> LAST DAY TO WITHDRAWAL <br>
 	Topics by request<br></strong>	
+	<a href = "Final_Project.md">Work on Final Project</a> <br>
 	</td>
 	<td valign="top">Dec 7<br><strong>
 		Code-swap + Bug Squashing <br>
-		Topics by Request <br></strong></td>	
+		Topics by Request <br></strong>
+	<a href = "Final_Project.md">Work on Final Project</a> <br></td>	
 </tr>
 <tr>	
-	<td>14</td><td valign="top">Dec 12<br><strong>Final Critiques <br>
+	<td>14</td><td valign="top">Dec 12<br><strong>Final Critiques <br><a href = "Final_Project.md">Work on Final Project</a> <br>
 	</td>
-	<td valign="top">Dec 14<br><strong>Final Critiques <br> <br> Last Day of Class</strong>  
+	<td valign="top">Dec 14<br><strong>Final Critiques <br> <br> Last Day of Class</strong>  <br><a href = "Final_Project.md">Work on Final Project</a> <br>
 	</td>
 </tr>
 <tr><td>EXAM WEEK</td>	

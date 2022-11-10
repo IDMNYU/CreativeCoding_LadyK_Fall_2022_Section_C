@@ -1,15 +1,14 @@
-# DM-UY 1133-E Creative Coding
-##### Fall 2021 • Katherine Bennett • Monday & Wednesdays • 14:00-15:50
-
+# DM-UY 1133-C Creative Coding
+##### Fall 2022 • Katherine Bennett • Monday & Wednesdays • 14:00-15:50
 
 ## Final Project: Choice   20% of your Final Grade
 ## Final Project Milestone <sup>1</sup>   5%  of your Final Grade
 
 ## Dates: 
 
-### Working Prototype Due: Dec 1st/6th - feedback 
-### Dec 8th & Dec 13th in class presentations
-### Alpha Version Due: Dec 19th 18:00 (sharp) via openProcessing && your github repo for the project 
+### Working Prototype Due: Dec 5th - feedback 
+### Dec 12th & Dec 14th in class presentations
+### Alpha Version Due: Dec 12th 18:00 (sharp) via openProcessing && your github repo for the project 
 
 **Working Prototype:** All media should be gathered; basic functionality should be evident and working in your code. Code should be commented with pseudo code for future functionality. Use this deadline to conquer topics that you are struggling with.
 
