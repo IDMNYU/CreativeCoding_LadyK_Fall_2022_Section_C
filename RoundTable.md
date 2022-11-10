@@ -35,5 +35,5 @@
 #### Create a Repo for this Final Project. Upload a folder called "RoundTable Presentation" to your repo with all of the above materials inside of it.
 
 
-**Presentations in class Nov 16th & 21st**
+**Presentations in class Nov 16th & 21st** <br>
 **Due Nov 21th POSTED TO YOUR GITHUB repo**
