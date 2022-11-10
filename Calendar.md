@@ -132,7 +132,6 @@
 </tr>
 <tr>	
 	<td>14</td><td valign="top">Dec 12<br><strong>Final Critiques <br><a href = "Final_Project.md">Work on Final Project</a> <br>
-	</td>
 	<td valign="top">Dec 14<br><strong>Final Critiques <br> <br> Last Day of Class</strong>  <br><a href = "Final_Project.md">Work on Final Project</a> <br>
 	</td>
 </tr>
