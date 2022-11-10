@@ -114,7 +114,7 @@
 <tr>
 	<td>12</td>
 	<td valign="top">Nov 28<br>Strings + API's<br>
-		<td valign="top"> <a href = "Final_Project.md">Work on Final Project</a> <br>
+    <a href = "Final_Project.md">Work on Final Project</a> <br>
 	</td>
 	<td valign="top">Nov 30<br>Sound<br>P5 Play Library<br>
 		<a href = "Final_Project.md">Work on Final Project</a> <br>
