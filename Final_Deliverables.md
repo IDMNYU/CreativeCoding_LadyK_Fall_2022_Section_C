@@ -36,4 +36,4 @@ Using Word or another text editor, reflect on the following, **considering the e
 
 
 
-# All of the above must be submitted by midnight on May 11th
+# All of the above must be submitted by 18:00 on December 19th
